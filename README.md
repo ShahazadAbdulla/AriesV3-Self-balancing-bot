@@ -58,8 +58,8 @@ The code uses the following libraries:
 
 1. Clone or download the repository.
 2. Install the necessary libraries:
-   - `MPU6050Aries` (for Kalman filter-based MPU6050 readings)
-
+   - `MPU6050Aries` (for Kalman filter-based MPU6050 readings):
+      https://github.com/ShahazadAbdulla/MPU6050Aries.git
    - `PID_v1` (for implementing PID control)
 3. Connect the components as per the pinout provided above.
 4. Upload the code to your **Aries V3.0 RISC-V board**.
